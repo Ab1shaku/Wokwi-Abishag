@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+2 NOT gates are connected to input a
 
 ## How to test
-
-Explain how to use your project
+Turn on 1st switch
 
 ## External hardware
 
